@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oDdAE6QIuBJW2QvcG8n-qg-T4sb8",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "02lHCi8mzPp7BDIofCS05p_WlIywySja_EKGRYk1DNk",
+      useTemplateId: "VYbcl23NpA8tDWOOEc2r8Kt6yZQon-sVSJAzTUHjA5k",
       // 所在省份
       province: "江苏",
       // 所在城市
@@ -43,14 +43,14 @@ export const config = {
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://www.xzw.com/fortune/aries/"
     }, 
-    {
-      name: "苏苏", 
-      id: "oDdAE6ezqlVx8CRwOiNnebMWN0MQ",
-      useTemplateId: "02lHCi8mzPp7BDIofCS05p_WlIywySja_EKGRYk1DNk",
-      province: "江苏",
-      city: "苏州",
-      openUrl: "https://www.xzw.com/fortune/aries/"
-    }, 
+//     {
+//       name: "苏苏", 
+//       id: "oDdAE6ezqlVx8CRwOiNnebMWN0MQ",
+//       useTemplateId: "VYbcl23NpA8tDWOOEc2r8Kt6yZQon-sVSJAzTUHjA5k",
+//       province: "江苏",
+//       city: "苏州",
+//       openUrl: "https://www.xzw.com/fortune/aries/"
+//     }, 
   ],
 
   /**
