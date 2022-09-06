@@ -87,7 +87,7 @@ const getAggregatedData = async () => {
 
 const getCallbackTemplateParams = (messageReply) => {
   const postTimeZone = timeZone()
-  const postTime = dayjs().format('YYYY-MM-DD HH:mm:ss')
+  const postTime = dayjs().tz('PRC').format('YYYY-MM-DD HH:mm:ss')
   return [
     { name: toLowerLine('postTimeZone'), value: postTimeZone, color: getColor() },
     { name: toLowerLine('postTime'), value: postTime, color: getColor() },
