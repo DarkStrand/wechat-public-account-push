@@ -7,4 +7,4 @@ dayjs.extend(utc)
 
 export const selfDayjs = (time) => dayjs(time).utc().tz('Asia/Shanghai')
 
-export const timeZone = () => dayjs.tz('Asia/Shanghai')
+export const timeZone = () => dayjs().tz('Asia/Shanghai')
