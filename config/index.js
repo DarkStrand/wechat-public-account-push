@@ -18,13 +18,13 @@ export const config = {
    * [
    *  {
    *    // 想要发送的人的名字
-   *    name: "苏苏",
+   *    name: "测试",
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-   *    id: "wxddceb28dc818920b",
+   *    id: "111",
    *    // 你想对他发送的模板消息的模板ID
-   *    useTemplateId: "ybxgTxiNdKS90tKsXFKB47n-i9NO5adeUFab0tS6rz4",
+   *    useTemplateId: "222",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-   *    openUrl: "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%88%91%E7%88%B1%E4%BD%A0&hs=0&pn=1&spn=0&di=7117150749552803841&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&ie=utf-8&oe=utf-8&cl=2&lm=-1&cs=2599921503%2C477457478&os=2674709034%2C3274325815&simid=2599921503%2C477457478&adpicid=0&lpn=0&ln=30&fr=ala&fm=&sme=&cg=&bdtype=0&oriquery=%E6%88%91%E7%88%B1%E4%BD%A0&objurl=https%3A%2F%2Fgimg2.baidu.com%2Fimage_search%2Fsrc%3Dhttp%3A%2F%2Fpicnew9.photophoto.cn%2F20150302%2Fwoainiyishuzishejishiliangsucai-05484441_1.jpg%26refer%3Dhttp%3A%2F%2Fpicnew9.photophoto.cn%26app%3D2002%26size%3Df9999%2C10000%26q%3Da80%26n%3D0%26g%3D0n%26fmt%3Dauto%3Fsec%3D1665020239%26t%3Ddfcce2e600dd3022c888b1f3843e7d95&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo8_z%26e3Bri5p5ri5p5_z%26e3BvgAzdH3Fp7rtwgAzdH3Fo5wtgtytfi7ztfij3tfitstwg2f7vwt-ac9b9998_z%26e3Bip4s&gsm=2&islist=&querylist=&dyTabStr=MCwzLDIsNCwxLDUsNiw3LDgsOQ%3D%3D"
+   *    openUrl: "333"
    *   }, 
    * ]
    */
@@ -46,10 +46,10 @@ export const config = {
 //     {
 //       name: "苏苏", 
 //       id: "oDdAE6ezqlVx8CRwOiNnebMWN0MQ",
-//       useTemplateId: "ybxgTxiNdKS90tKsXFKB47n-i9NO5adeUFab0tS6rz4",
+//       useTemplateId: "02lHCi8mzPp7BDIofCS05p_WlIywySja_EKGRYk1DNk",
 //       province: "江苏",
 //       city: "苏州",
-//       openUrl: "https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%88%91%E7%88%B1%E4%BD%A0&hs=0&pn=1&spn=0&di=7117150749552803841&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&ie=utf-8&oe=utf-8&cl=2&lm=-1&cs=2599921503%2C477457478&os=2674709034%2C3274325815&simid=2599921503%2C477457478&adpicid=0&lpn=0&ln=30&fr=ala&fm=&sme=&cg=&bdtype=0&oriquery=%E6%88%91%E7%88%B1%E4%BD%A0&objurl=https%3A%2F%2Fgimg2.baidu.com%2Fimage_search%2Fsrc%3Dhttp%3A%2F%2Fpicnew9.photophoto.cn%2F20150302%2Fwoainiyishuzishejishiliangsucai-05484441_1.jpg%26refer%3Dhttp%3A%2F%2Fpicnew9.photophoto.cn%26app%3D2002%26size%3Df9999%2C10000%26q%3Da80%26n%3D0%26g%3D0n%26fmt%3Dauto%3Fsec%3D1665020239%26t%3Ddfcce2e600dd3022c888b1f3843e7d95&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo8_z%26e3Bri5p5ri5p5_z%26e3BvgAzdH3Fp7rtwgAzdH3Fo5wtgtytfi7ztfij3tfitstwg2f7vwt-ac9b9998_z%26e3Bip4s&gsm=2&islist=&querylist=&dyTabStr=MCwzLDIsNCwxLDUsNiw3LDgsOQ%3D%3D"
+//       openUrl: "https://www.xzw.com/fortune/aries/"
 //     }, 
   ],
 
@@ -111,8 +111,6 @@ export const config = {
     {"keyword": "love_day", date: "2022-08-28"},
     // 结婚纪念日
     {"keyword": "marry_day", date: "2020-01-04"},
-    // 退伍日, 不用可以删掉
-    {"keyword": "ex_day", date: "2022-08-31"},
     // sakana日
     // {"keyword": "sakana_day", date: "2022-01-06"},
     // ... 
