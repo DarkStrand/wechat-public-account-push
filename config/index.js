@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oDdAE6QIuBJW2QvcG8n-qg-T4sb8",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "FXwMDCahG5FgT40KD56eQvyDqIk47MpJK5cp0LuQj6E",
+      useTemplateId: "BNSfH-4nqEf3X4eAwl-7bbrgphV9HDM55lDXSSx55f4",
       // 所在省份
       province: "江苏",
       // 所在城市
@@ -46,7 +46,7 @@ export const config = {
     {
       name: "苏苏", 
       id: "oDdAE6ezqlVx8CRwOiNnebMWN0MQ",
-      useTemplateId: "FXwMDCahG5FgT40KD56eQvyDqIk47MpJK5cp0LuQj6E",
+      useTemplateId: "BNSfH-4nqEf3X4eAwl-7bbrgphV9HDM55lDXSSx55f4",
       province: "江苏",
       city: "苏州",
       openUrl: "https://www.xzw.com/fortune/aries/"
